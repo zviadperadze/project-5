@@ -1,0 +1,51 @@
+/*start slyling header*/
+
+header{
+	padding: 20px;
+	background-color: lightgrey;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 13px;
+	color: #fa6980;
+	margin-right: 90px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+	
+}
+
+li a{
+	font-size: 11px;
+	color: #343638
+}
+.girl {
+	vertical-align: middle;
+	margin-left: 39px;
+}
+
+/*start stylyng s-1*/
+
+.s-1{
+	margin-top: 25px;
+
+}
+
+.container{
+	width: 1160px;
+	margin: 0 auto;
+}
