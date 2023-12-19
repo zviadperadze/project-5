@@ -1,11 +1,12 @@
 /*start slyling header*/
 
 header{
-	padding: 20px;
+	padding: 12px 20px 17px 20px;
 	background-color: lightgrey;
 	position: fixed;
 	top: 0;
 	width: 100%;
+	height: 50px;
 	z-index: 100;
 }
 
@@ -128,6 +129,7 @@ p{
 .s-2{
 
 	margin-top: 58px;
+	margin-bottom: 37px;
 }
 
 .cardleft{
@@ -163,3 +165,7 @@ p{
 .cardright2{
 	margin-bottom: 102px;
 }
+
+
+/*start styling footer*/
+
