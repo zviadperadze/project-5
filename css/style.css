@@ -41,11 +41,125 @@ li a{
 /*start stylyng s-1*/
 
 .s-1{
-	margin-top: 25px;
+	margin-top: 95px;
 
 }
 
 .container{
 	width: 1160px;
 	margin: 0 auto;
+
+}
+
+h2{
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+
+.card-1{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	position: relative;
+	margin-right: 40px;
+	border:none;
+
+
+}
+
+
+
+.wrapper-1 {
+	width: 360px;
+	height: 180px;
+	display: inline-block;
+	position: relative;
+	left: 0;
+
+}
+
+
+
+h3{
+	font-size: 16px;
+	color: #FFFFFF;
+	position: absolute;
+	top: 28px;
+	left: 40px;
+}
+
+p{
+	font-size: 13px;
+	color: #A9B2B9;
+	position: absolute;
+	left: 40px;
+	top: 246px;
+}
+
+.time-1{
+	position: absolute;
+	left: 40px;
+	top: 294px;
+}
+
+.card-2{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	position: relative;
+	margin-right: 40px;
+	margin-left: -4px;
+	
+}
+
+.card-3{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	position: relative;
+	margin-left: -4px;
+}
+
+
+/*start styling s-2*/
+
+.s-2{
+
+	margin-top: 58px;
+}
+
+.cardleft{
+	width: 760px;
+	height: 900px;
+	display: inline-block;
+	position: relative;
+	margin-right: 40px;
+	vertical-align: top;
+}
+
+
+.cardleft2{
+	position: absolute;
+	width: 760px;
+	height: 430px;
+	bottom: 0;
+}
+
+.cardright{
+	width: 360px;
+	height: 834px;
+	display: inline-block;
+	margin-left: -4px;
+	vertical-align: top;
+}
+
+
+.cardright1{
+	margin-bottom: 102px;
+}
+
+.cardright2{
+	margin-bottom: 102px;
 }
